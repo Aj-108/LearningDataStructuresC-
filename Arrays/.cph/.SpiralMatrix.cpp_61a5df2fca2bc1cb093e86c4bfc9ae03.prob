@@ -1,0 +1,1 @@
+{"name":"Local: SpiralMatrix","url":"e:\\Coding\\c++\\Arrays\\SpiralMatrix.cpp","tests":[{"id":1623881305535,"input":"1 2 3 4 5\n6 7 8 9 10\n11 12 13 14 15 \n16 17 18 19 20","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Coding\\c++\\Arrays\\SpiralMatrix.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: FirstRepeatingElement","url":"/home/archit/Coding/c++/Arrays/FirstRepeatingElement.cpp","tests":[{"id":1626880344588,"input":"5 \n1 2 1 3 2","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/archit/Coding/c++/Arrays/FirstRepeatingElement.cpp","group":"local","local":true}
