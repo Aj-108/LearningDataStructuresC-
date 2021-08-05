@@ -1,0 +1,1 @@
+{"name":"Local: DeleteNode","url":"/home/archit/Git/LearningDataStructuresC-/LinkedList/DeleteNode.cpp","tests":[{"id":1628105679707,"input":"10 20 30 40 50 60 -1","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/archit/Git/LearningDataStructuresC-/LinkedList/DeleteNode.cpp","group":"local","local":true}
