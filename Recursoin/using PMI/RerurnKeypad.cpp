@@ -10,8 +10,8 @@ int dialPad(int num,string output[],string *str[]){
 
     int smallOutputSize = dialPad(num/10,output,str) ;
     
-    int count ;
-    for(;str[num%10][count]!="/0";count++);
+    int count = 3;
+    //for(;str[num%10][count]!="/0";count++);
 
     int j=0;
     while(j<count-1){

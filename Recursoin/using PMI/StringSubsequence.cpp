@@ -1,6 +1,16 @@
 #include<bits/stdc++.h>
 using namespace std ;
 
+void stringSub2(string input,string output){
+    if(input.empty()) {
+        cout << output <<"\n";
+        return ;
+    }
+
+    stringSub2(input.substr(1),output);
+    stringSub2(input.substr(1),output+input[0]); 
+}
+
 int stringSub(string str,string output[]){
     if(str.empty() ) {
         output[0] = "" ;
