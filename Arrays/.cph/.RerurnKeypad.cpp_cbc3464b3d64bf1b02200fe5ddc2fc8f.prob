@@ -1,0 +1,1 @@
+{"name":"Local: RerurnKeypad","url":"/home/archit/Git/LearningDataStructuresC-/Arrays/RerurnKeypad.cpp","tests":[{"id":1628257580822,"input":"234\nabc\ndef\nghi\njkl\nmno\npqrs\ntuv\nwxyz","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/archit/Git/LearningDataStructuresC-/Arrays/RerurnKeypad.cpp","group":"local","local":true}
