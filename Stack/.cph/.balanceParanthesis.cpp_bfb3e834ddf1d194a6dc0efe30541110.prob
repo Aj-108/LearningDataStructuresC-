@@ -1,0 +1,1 @@
+{"name":"Local: balanceParanthesis","url":"/home/archit/Git/LearningDataStructuresC-/Stack/balanceParanthesis.cpp","tests":[{"id":1628373148844,"input":"{[[()([)()]]}","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/archit/Git/LearningDataStructuresC-/Stack/balanceParanthesis.cpp","group":"local","local":true}
