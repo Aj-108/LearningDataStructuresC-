@@ -16,10 +16,12 @@ int main(){
     for(int i=0;i<m;i++){
         arr2[i] = new int[n] ;
         for(int j=0;j<n;j++){
-            cin >> arr[m][n] ;
+            cin >>arr[m][n] ;
         }
     }
+  
 
+ 
     for(int i=0;i<m;i++){
         delete [] arr2[i] ;
     }
