@@ -30,12 +30,12 @@ int stringSub(string str,string output[]){
 int main(){
     string input ;
     cin >> input ;
-
-    string *output = new string[100] ;
-    int count = stringSub(input,output) ;
-    for(int i=0;i<count;i++){
-        cout << output[i] <<"\n" ;
-    }
+    stringSub2(input,"") ;
+    // string *output = new string[100] ;
+    // int count = stringSub(input,output) ;
+    // for(int i=0;i<count;i++){
+    //     cout << output[i] <<"\n" ;
+    // }
 
     return 0 ;
 }

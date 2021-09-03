@@ -42,7 +42,7 @@ class BST{
     Node<int> *deleteNode(int data,Node<int> *node){
         if(node == NULL ) return NULL ;
         if(node->data > data){
-            root->left = (data,node->left) ;
+            root->left = deleteNode(data,node->left) ;
         }
         if(node->data < data){
             root->right= deleteNode(data,node->right) ;
